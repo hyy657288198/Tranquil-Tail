@@ -1,0 +1,70 @@
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+LICENSE
+
+- You can use this asset in any game project, personal or commercial
+- DO NOT resell or redistribute AS A GAME ASSET, it has to be part of a project
+- Modify to suit your needs
+- You are NOT allowed to turn any of my assets to an NFT.
+- Credit not necessary but appreciated, if you do you can link to my ITCH profile
+ITCH.IO LINK: https://admurin.itch.io/
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+NPCs
+
+- Benedict: 4 frames, 1 animation (Idle)
+- Dog Whisperer: 4 frames, 1 animation (Idle)
+- Elliz: 4 frames, 1 animation (Idle)
+- Resting Mage: 6 frames, 6 FX frames, 2 animation (Idle, Fire)
+- Hilda: 4 frames, 1 animation (Idle)
+- Knight: 4 frames, 1 animation (Idle)
+- Old Man: 4 frames, 1 animation (Idle)
+- Psychic: 4 frames, 1 animation (Idle)
+- Survivor: 4 frames, 1 animation (Idle)
+- Admurin: 4 frames, 1 animation (Idle)
+- Priest: 4 frames, 1 animation (Idle)
+- Altar Boy: 4 frames, 1 animation (Idle)
+- Altar Boy Chest: 4 frames, 1 animation (Idle)
+- Altar Boy Cross: 4 frames, 1 animation (Idle)
+- Altar Boy Pray: 4 frames, 1 animation (Idle)
+- Axel: 4 frames, 1 animation (Idle)
+- Axel B: 8 frames, 1 animation (Idle)
+- Explorer: 4 frames, 1 animation (Idle)
+- Rolfe: 4 frames, 1 animation (Idle)
+- Thea: 4 frames, 1 animation (Idle)
+- Alistair: 4 frames, 1 animation (Idle)
+- Brom: 4 frames, 1 animation (Idle)
+- Cassius: 4 frames, 1 animation (Idle)
+- Mary: 4 frames, 1 animation (Idle)
+- Plague Doctor: 4 frames, 1 animation (Idle)
+- Thomas: 4 frames, 1 animation (Idle)
+- Fenrir: 4 frames, 1 animation (Idle)
+- Piers: 4 frames, 1 animation (Idle)
+- Pescad: 4 frames, 1 animation (Idle)
+- Rescad: 4 frames, 1 animation (Idle)
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+All NPCs come with an Idle animation that is loopable
+
+Certain NPCs may have more animations
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+If you are looking for even more content then check out all my packs!
+Admurin's Library: https://assetstore.unity.com/publishers/51994
+
+If you have any other questions you can check my discord where I will answer and help you use my assets. 
+DISCORD LINK: https://discord.com/invite/jmf4pzv5Fj
+
+If you want to support me you can check out my Patreon. This allows me to focus on making more assets and releasing free assets as well! 
+Patrons also get to design their own NPC!
+PATREON LINK: https://www.patreon.com/admurin
+
+
+Don't forget to leave a review!
+
+Thank you.
+Admurin
